@@ -1,5 +1,8 @@
-# 💫 About Me:
+
+ <p style="text-align: center;"> <h1> <center> 💫 About Me:</center></h1></p>
+
 🔭 Currently working on: Expanding my skills in video editing and graphic design<br>👯 Looking to collaborate on: Creative projects in video production, digital media, and software<br>🤝 Looking for help with: Advanced techniques in digital graphics and software engineering<br>🌱 Currently learning: New software tools, design techniques, and programming skills<br>💬 Ask me about: Digital editing, graphic design, video production, or anything about software!<br>⚡ Fun fact: I'm combining my tech skills and artistic eye to bring stories to life through visuals!
+
 
 
 ## 🌐 Socials:
